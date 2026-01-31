@@ -37,38 +37,6 @@ Node.js
 npm / yarn
 MongoDB
 Python (for AI server)
-Clone the Repository
-git clone https://github.com/your-username/justicechain.git
-cd justicechain
-Frontend Setup (React)
-cd frontend
-npm install
-npm start
-Backend Setup (Node.js + MongoDB)
-cd backend
-npm install
-npm run dev
-Blockchain Server Setup (Smart Contract API)
-cd blockchain
-npm install
-npm start
-AI Server Setup (Flask + Groq)
-cd ai-server
-pip install -r requirements.txt
-python connect.py
-🔐 Environment Variables
-Create .env files in each folder and add required secrets:
 
-AI Server (.env)
-
-GROQ_API_KEY=your_groq_api_key
-Backend / Blockchain (.env)
-
-MONGO_URI=your_mongo_connection_string
-PINATA_API_KEY=your_pinata_key
-PINATA_SECRET_API_KEY=your_pinata_secret
-INFURA_API_KEY=your_infura_or_alchemy_key
-WALLET_PRIVATE_KEY=your_eth_wallet_private_key
-Contract_Address=0xF23133f1cd75C8AF6dEe73389BbB4C327697B82D
 
 
