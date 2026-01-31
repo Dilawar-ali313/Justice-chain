@@ -70,14 +70,5 @@ PINATA_SECRET_API_KEY=your_pinata_secret
 INFURA_API_KEY=your_infura_or_alchemy_key
 WALLET_PRIVATE_KEY=your_eth_wallet_private_key
 Contract_Address=0xF23133f1cd75C8AF6dEe73389BbB4C327697B82D
-🤝 Contributing
-Contributions are welcome! Please open an issue or pull request.
 
-📬 Contact
-Created with ❤️ by the IndieApes Team. 👥 Contributors Ujjwal Yadav – @Ujjwal5353t
 
-Vaibhav chaturvedi – @VaibhavChaturvedi03
-
-Vivek Mathur – @freateditz
-
-Yash Manral - @yash5627
